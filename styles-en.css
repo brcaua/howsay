@@ -1,0 +1,39 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  text-align:center;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  font-family: 'Century Gothic';
+}
+header, main, footer{
+  margin: 0 auto 20px;
+  width: 90%;
+  max-width: 700px;
+}
+
+/* Header */
+header{
+  color: rgb(7, 6, 6);
+}
+
+/* Main */
+main{
+  display: grid;
+  grid-template-columns: 1fr;
+  background-color: #C11615;
+  height: 400%;
+  max-height: 1300px;
+}
+main h1{
+  font-size: 22px;
+  color: aliceblue;
+}
+/* Footer */
+footer h1{
+  font-size:16px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
