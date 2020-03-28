@@ -1,5 +1,3 @@
-
-<img src="https://github.com/brcaua/doesangue.github.dev/blob/master/computer-vector.svg" align="center"></img>
 <h1 align="center">HowSay</h1>
 <p align="center">Projeto <strong>HowSay</strong> foi desenvolvido por mim mesmo</p>
 <p align="center">
