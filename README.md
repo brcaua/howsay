@@ -7,8 +7,12 @@
 [Javascript](https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript)
 | [Html](https://tableless.com.br/o-que-html-basico/)
 | [CSS](https://www.w3schools.com/css/)
+| [ESLint](https://eslint.org/)
+| [Husky](https://github.com/typicode/husky)
+| [lint-staged](https://github.com/okonet/lint-staged)
 
 ## :crossed_flags: Languages
+   #### :brazil: Portuguese
    #### :us: English
    #### :fr: French
    #### :de: German
@@ -34,10 +38,18 @@ Use o YouTube para melhorar sua pronúncia em inglês. Com mais de 50 milhões d
 ## Instructions to use the project
 
 #### Running the project
+```sh
+$ git clone git@github.com/brcaua/doesangue.github.dev.git
 
-    git clone git@github.com/brcaua/howsay.github.dev.git
-    cd howsay.github.dev
-    code .
+```
+```sh
+$ cd doesangue.github.dev
+
+```
+```sh
+$ code .
+
+```
 
 ## :memo: Licença
 
