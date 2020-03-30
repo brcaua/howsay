@@ -1,5 +1,4 @@
 <h1 align="center">HowSay</h1>
-<p align="center">Projeto <strong>HowSay</strong> foi desenvolvido por mim mesmo</p>
 <p align="center">
 
 
@@ -10,17 +9,16 @@
 
 ## 💻 Projeto
 
-#### Use o YouTube para melhorar sua pronúncia em inglês. Com mais de 50 milhões de faixas, o HowSay fornece respostas rápidas e imparciais sobre como o inglês é falado por pessoas reais e em contexto.
+Use o YouTube para melhorar sua pronúncia em inglês. Com mais de 50 milhões de faixas, o HowSay fornece respostas rápidas e imparciais sobre como o inglês é falado por pessoas reais e em contexto.
 
 
 ## Instructions to use the project
 
-### Running the project
+#### Running the project
 
     git clone git@github.com/brcaua/howsay.github.dev.git
     cd howsay.github.dev
     code .
-    
 
 ## :memo: Licença
 
