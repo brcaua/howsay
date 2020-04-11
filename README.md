@@ -37,15 +37,18 @@ Antes de começar, você deve ter os seguintes requisitos:
 
    Use o YouTube para melhorar sua pronúncia em inglês. Com mais de 50 milhões de faixas, o HowSay fornece respostas rápidas e imparciais sobre como o inglês é falado por pessoas reais e em contexto.
 
+* Mapa funcional do projeto
+  
+  <img src="https://github.com/brcaua/howsay/blob/master/HowSay.png"></img>
 
-## Prototype
-### Web Model (zoom 60%)
+* Prototype - Web Model (zoom 60%)
 
-<img src="https://github.com/brcaua/howsay.github.dev/blob/master/_home_brcaua_Documentos_HowSay_index.html(Laptop with touch).png"></img>
+  <img src="https://github.com/brcaua/howsay.github.dev/blob/master/_home_brcaua_Documentos_HowSay_index.html(Laptop with touch).png"></img>
 
-### Mobile (Responsive)
-<p align="center">
-<img width="250px" height="500px" src="https://github.com/brcaua/howsay.github.dev/blob/master/_home_brcaua_Documentos_HowSay_index.html(iPhone 6_7_8) (1).png"></img>
+* Prototype - Mobile (Responsive)
+
+  <p align="center">
+  <img width="250px" height="500px"          src="https://github.com/brcaua/howsay.github.dev/blob/master/_home_brcaua_Documentos_HowSay_index.html(iPhone 6_7_8) (1).png"></img>
 </p>
 
 
